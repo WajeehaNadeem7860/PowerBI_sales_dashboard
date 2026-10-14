@@ -26,8 +26,5 @@ To develop practical data analytics and business intelligence skills by presenti
 - Interactive dashboard development
 - Business data analysis
 
-## Dashboard Preview
-main/SalesDashboard.jpeg
-
 ## Project Files
 The Power BI report is included in this repository for review.
